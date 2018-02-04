@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chow Gar Kung Fu Niepolomice", "Chow Gar Kung Fu Niepolomice\Chow Gar Kung Fu Niepolomice.csproj", "{3D30C835-2D32-4B3A-89FF-4423269D600D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D30C835-2D32-4B3A-89FF-4423269D600D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D30C835-2D32-4B3A-89FF-4423269D600D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D30C835-2D32-4B3A-89FF-4423269D600D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D30C835-2D32-4B3A-89FF-4423269D600D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5EFA57B-0E70-458E-BBF9-597E664E6346}
+	EndGlobalSection
+EndGlobal

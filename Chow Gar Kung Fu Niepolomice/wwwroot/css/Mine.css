@@ -1,0 +1,63 @@
+﻿#GoogleMaps {
+    width: 100%;
+}
+
+#PricingForIcon {
+    padding-top: 20px;
+}
+
+.KungFuTitle h2 {
+    color: white;
+    text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey, -1px -1px grey, 1px 1px grey, -1px 1px grey, 1px -1px grey;
+    padding-top: 100px;
+    position: relative;
+    top: -200px;
+    left: 200px;
+    font-size: 40px;
+}
+
+.icon-arrow-up {
+    font-size: 22px;
+    vertical-align: middle;
+}
+
+.contactText {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 35px;
+}
+
+.contactText p {
+    color: #515769;
+}
+
+.facebookIcon {
+    font-size: 24px;
+    border: 2px solid;
+    padding: 2px 2px 2px 2px;
+    border-radius: 8px;
+    margin-left: 10px;
+}
+
+.facebookText {
+    font-size: 22px;
+    color: #515769;    
+}
+
+.facebookSection {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.mapDirection{
+    padding-top: 10px;
+}
+
+#mapIcon {
+    font-size: 28px;
+    margin-left: 10px;
+}
+
+#subPageContainer {
+    padding-top: 220px;
+}
