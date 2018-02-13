@@ -61,3 +61,7 @@
 #subPageContainer {
     padding-top: 220px;
 }
+
+#centerIndicators {
+    left: 50% !important;
+}
