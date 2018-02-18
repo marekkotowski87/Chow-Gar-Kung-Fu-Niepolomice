@@ -559,7 +559,7 @@ fieldset[disabled] .btn-theme {
 .header .navbar {
     background: linear-gradient(to top, rgba(255,255,255,0), rgba(255,255,255,0.25));
     margin-bottom: 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 2px solid rgb(255, 255, 255);
     transition-duration: 300ms;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -732,19 +732,19 @@ fieldset[disabled] .btn-theme {
   position: relative;
 }
 
-.header .nav-item-hover:after {
-  position: absolute;
-  top: 45px;
-  left: 0;
-  width: 9px;
-  height: 2px;
-  background: #17bed2;
-  opacity: 0;
-  content: " ";
-  transition-duration: 400ms;
-  transition-property: all;
-  transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
-}
+    .header .nav-item-hover:after {
+        position: absolute;
+        top: 45px;
+        left: 0;
+        width: 9px;
+        height: 3px;
+        background: #ffff00;
+        opacity: 0;
+        content: " ";
+        transition-duration: 400ms;
+        transition-property: all;
+        transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
+    }
 
 /* Media Queries below 991px */
 @media (max-width: 991px) {

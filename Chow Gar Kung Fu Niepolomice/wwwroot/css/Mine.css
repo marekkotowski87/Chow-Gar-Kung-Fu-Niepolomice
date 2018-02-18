@@ -61,3 +61,7 @@
 #subPageContainer {
     padding-top: 220px;
 }
+
+.navbar-bottom-line {
+    border-bottom: 5px solid yellow !important;
+}
