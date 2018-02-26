@@ -65,3 +65,9 @@
 .navbar-bottom-line {
     border-bottom: 5px solid yellow !important;
 }
+
+.orderedListInParagraph li {
+    font-size: 17px;
+    font-family: Hind, sans-serif;
+    color: #a6a7aa;
+}
