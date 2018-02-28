@@ -16,6 +16,7 @@
     <Content Remove="wwwroot\css\StyleSheet.css" />
     <Content Remove="wwwroot\img\1920x1080\01.jpg" />
     <Content Remove="wwwroot\img\1920x1080\02.jpg" />
+    <Content Remove="wwwroot\img\1920x1080\Banner5_1.jpg" />
     <Content Remove="wwwroot\img\500x500\01.jpg" />
     <Content Remove="wwwroot\img\500x500\02.jpg" />
     <Content Remove="wwwroot\img\500x500\03.jpg" />

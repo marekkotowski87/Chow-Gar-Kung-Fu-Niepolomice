@@ -71,3 +71,8 @@
     font-family: Hind, sans-serif;
     color: #a6a7aa;
 }
+
+.logo-border {
+    border: 2px solid white;
+    border-radius: 95mm;
+}
