@@ -76,3 +76,19 @@
     border: 2px solid white;
     border-radius: 95mm;
 }
+
+.my-menu-item {
+    font-size: 22px!important;
+}
+
+.my-text-shadow {
+    text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey, -1px -1px grey, 1px 1px grey, -1px 1px grey, 1px -1px grey;
+}
+
+.my-text-size-inside-carousel {
+    font-size: 22px!important;
+}
+
+.my-modal-paragraph-color p {
+    color: #515769 !important;
+}
