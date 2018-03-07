@@ -78,7 +78,7 @@
 }
 
 .my-menu-item {
-    font-size: 22px!important;
+    font-size: 22px !important;
 }
 
 .my-text-shadow {
@@ -91,4 +91,8 @@
 
 .my-modal-paragraph-color p {
     color: #515769 !important;
+}
+
+.collapsed-menu-padding-40 {
+    padding-top: 40px;
 }
